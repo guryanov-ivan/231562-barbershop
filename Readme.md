@@ -2,7 +2,7 @@
 
 * Студент: [Иван Гурьянов](https://up.htmlacademy.ru/htmlcss/15/user/231562).
 
----
+* Наставник: `Роман Духницький`.
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
